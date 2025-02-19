@@ -5,8 +5,12 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4"
-dotenv = "0.15"
-serde = { version = "1", features = ["derive"] }
+dotenv = "0.15.0"
+serde = { version = "1.0.217", features = ["derive"] }
 tokio = { version = "1", features = ["full"] }
 sqlx = { version = "0.7", features = ["runtime-tokio-native-tls", "postgres"] }
-jsonwebtoken = "9"
+jsonwebtoken = "9.3.1"
+argon2 = "0.4.1"
+async-trait = "0.1.86"
+anyhow = "1.0.95"
+chrono = "0.4.39"
