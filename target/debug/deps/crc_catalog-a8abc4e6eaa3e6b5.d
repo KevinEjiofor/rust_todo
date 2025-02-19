@@ -1,0 +1,9 @@
+/home/user/Documents/rust/rust-todo-app/target/debug/deps/libcrc_catalog-a8abc4e6eaa3e6b5.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/poly.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/algorithm.rs
+
+/home/user/Documents/rust/rust-todo-app/target/debug/deps/libcrc_catalog-a8abc4e6eaa3e6b5.rlib: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/poly.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/algorithm.rs
+
+/home/user/Documents/rust/rust-todo-app/target/debug/deps/crc_catalog-a8abc4e6eaa3e6b5.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/poly.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/algorithm.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/poly.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc-catalog-2.4.0/src/algorithm.rs:
